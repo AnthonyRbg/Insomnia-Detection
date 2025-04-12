@@ -1,6 +1,6 @@
 # Model configuration
 MODEL_NAME = "google/gemma-2-2b-it"
-HF_TOKEN = "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"
+HF_TOKEN = "<your_hugging_face_token>"
 
 # Path configurations
 DATASET_PATH = "data/testing.csv"
